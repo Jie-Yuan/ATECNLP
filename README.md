@@ -2,7 +2,7 @@
 
 ---
 
-# 1. BaseLine
+# 1. Baseline
 
 # 2. ...
 
